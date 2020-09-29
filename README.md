@@ -1,4 +1,5 @@
 ![Stephen Radley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sradley&count_private=true&show_icons=true&hide=contribs,prs)
+![Stephen Radley's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sradley&hide=makefile)
 
 <!--
 **sradley/sradley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
